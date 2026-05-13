@@ -1,0 +1,1 @@
+-- loads in and runs apps from the apps folder

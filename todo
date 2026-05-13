@@ -1,0 +1,9 @@
+-- add the intro animation
+-- figure out how to load apps
+-- figure out how to use json files to save data
+-- make a settings app (probably just some commands in the terminal... oh yeah, also make the terminal lol)
+-- figure out parsing in terminal (and maybe reuse some of that knowledge or code to create a calculator)
+-- make a calculator app (already have the file waiting in m_system/apps)
+-- add sound effects (like a startup sound, beeps and boops for the terminal, crash sounds, etc.)
+-- add a crash screen (with a blue screen of death and a sad trombone sound effect)
+-- add a shutdown animation (maybe just the logo fading out?)
