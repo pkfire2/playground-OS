@@ -1,7 +1,7 @@
 
 function love.load()
     -- controls the state of vomOS. Ex: boot, app, etc.
-    local vState = "startup"
+    state = "startup"
 
     canEsc = true
    
