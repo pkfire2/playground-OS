@@ -9,7 +9,7 @@ function love.load()
     love.window.setMode(800, 800, {resizable=true})
     love.window.setFullscreen(false)
     love.window.setIcon(love.image.newImageData("m_assets/playIcon.png"))
-    love.window.setTitle("playground test window")
+    love.window.setTitle("playgroundtest")
     
     love.graphics.newImage("m_assets/hand.png")
     local cr_data = love.image.newImageData("m_assets/hand.png")
