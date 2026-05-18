@@ -1,1 +1,2 @@
 -- will load in apps from the apps folder when prompted to from the terminal
+-- implement after terminl, as input from there is required
