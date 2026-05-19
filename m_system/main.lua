@@ -27,7 +27,6 @@ function love.load()
     closeAppSound = love.audio.newSource("m_sfx/closeapp.mp3", "static")
     notifSound = love.audio.newSource("m_sfx/notif.mp3", "static")
     crashSound = love.audio.newSource("m_sfx/crashsound.mp3", "static")
-
 end
 
 function love.update(dt)
