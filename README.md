@@ -3,7 +3,9 @@ playground-os is planned to be a terminal-focused fake OS that lets you make you
 apps are self-contained in their own folders with their own files and assets!
 
 ## How do I make my own apps?
-proper documentation will come with the first official release, but for now I'm adding as may comments as i can to explain everything while im building this.
+before you start making your own creations, you'll need to install a Lua framework called Love2D. It's the framework this project is built on and you'll need it to run your code.
+
+proper documentation on how to actaully build your apps will come with the first official release, but for now I'm adding as may comments as i can to explain everything while im building this.
 for now... sit tight lmao
 
 ## DISCLAIMER: 
