@@ -3,7 +3,8 @@
 require("m_system.terminal")
 require("m_system.apploader")
 
-/":="   -- state variables
+function love.load()
+    -- state variables
     state = "startup"
     canEsc = true
     
@@ -21,7 +22,7 @@ require("m_system.apploader")
     love.graphics.setFont(defaultFont)
 
     -- load in audio files
-    startSound = love.audio.newSource("m_sfx/startsound.mp3", "static")
+    startSound = love.audio.newSource("m_sfx/startup.mp3", "static")
     openAppSound = love.audio.newSource("m_sfx/openapp.mp3", "static")
     closeAppSound = love.audio.newSource("m_sfx/closeapp.mp3", "static")
     notifSound = love.audio.newSource("m_sfx/notif.mp3", "static")
