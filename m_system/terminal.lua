@@ -1,2 +1,8 @@
--- blank for now, will be the core of the system, it'll be the main way to interact with the system
--- will be hard to implement but it's important to add it as one of the first features, since it's the core of the system
+-- terminal's code. VERY EARLY WIP
+-- I DONT KNOW WHAT IM DOING SO THIS MAY BE VERY BROKEN/BUGGY
+-- just gonna assume i start this off with a table lmao
+
+require("m_system/apploader.lua")
+terminal = {
+    
+}
