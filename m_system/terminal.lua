@@ -24,5 +24,11 @@ local commands = {
 
     playversion = function()
         table.insert(terminal.history, "playground-os pre alpha v1")
-    end,
-}
+    end
+
+    list = function()
+        table.insert(terminal.history, "Type 'list' for command list")
+        table.insert(terminal.history, "Type 'clear' to clear the terminal")
+        table.insert(terminal.history, "Type 'echo' to repeat text")
+        table.insert(terminal.history, "Type 'playversion' to see your current system version")
+    }
