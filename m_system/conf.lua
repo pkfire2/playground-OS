@@ -4,5 +4,5 @@ function love.conf(t)
     t.window.resizable = false
     t.window.fullscreen = false
     t.window.title = "playground-os pre alpha v1"
-    t.window.icon = "m_assets/pg_icon.png"
+    t.window.icon = "m_assets/oslogo.png"
 end
